@@ -47,7 +47,6 @@ console.log(californiaCities)
 const newData =
 console.log(newData)
 
-// OPTIONAL CHALLENGE
 // GROUP BY PARTY AND LIST POPULATION FOR EACH STATE
 const populationData =
 console.log(populationData)
