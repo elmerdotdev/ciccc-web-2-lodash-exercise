@@ -1,6 +1,6 @@
 // USE LODASH METHODS ONLY
 
-const citiesWithParty = [
+const cities = [
   { cityName: 'New York City', state: 'New York', population: 8336817, party: 'Democrat' },
   { cityName: 'Los Angeles', state: 'California', population: 3979576, party: 'Democrat' },
   { cityName: 'Chicago', state: 'Illinois', population: 2693976, party: 'Democrat' },
@@ -31,7 +31,7 @@ console.log(cityGroups)
 const sortedCities =
 console.log(sortedCities)
 
-// FILTER ARRAY AND SHOW ONLY CITIES OF CALIFORNIA
+// SHOW ONLY CITIES OF CALIFORNIA
 const californiaCities =
 console.log(californiaCities)
 
@@ -39,6 +39,14 @@ console.log(californiaCities)
 const texasCities =
 console.log(texasCities)
 
+// ADD ALL THE POPULATION OF CALIFORNIA CITIES
+const californiaPopulation = 
+console.log(californiaCities)
+
 // GROUP BY PARTY AND SHOW ONLY CITIES WITH A POPULATION ABOVE 1 MILLION. SORT CITY NAMES ALPHABETICALLY
 const newData =
 console.log(newData)
+
+// GROUP BY PARTY AND LIST POPULATION FOR EACH STATE
+const populationData =
+console.log(populationData)
