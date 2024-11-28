@@ -41,7 +41,7 @@ console.log(texasCities)
 
 // ADD ALL THE POPULATION OF CALIFORNIA CITIES
 const californiaPopulation = 
-console.log(californiaCities)
+console.log(californiaPopulation)
 
 // GROUP BY PARTY AND SHOW ONLY CITIES WITH A POPULATION ABOVE 1 MILLION. SORT CITY NAMES ALPHABETICALLY
 const newData =
